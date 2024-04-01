@@ -24,3 +24,7 @@ The results of the forecast are visualized using Matplotlib to compare the predi
 ## Dependencies
 - Python 3.x
 - Libraries: numpy, pandas, scikit-learn, keras, matplotlib
+
+## Conclusion
+In conclusion, this project demonstrates the effectiveness of LSTM neural networks in forecasting Bitcoin prices based on historical data. By accurately predicting price movements, investors and traders can make informed decisions, leading to potentially higher profits and reduced risks in the volatile cryptocurrency market.
+

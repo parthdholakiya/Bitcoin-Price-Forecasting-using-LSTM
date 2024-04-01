@@ -1,5 +1,3 @@
-# bitcoin-Forcasting-using-LSTM
-
 # Bitcoin Price Forecasting using LSTM
 This project utilizes Long Short-Term Memory (LSTM) neural networks to forecast the price of Bitcoin (BTC) based on historical data. LSTM networks are well-suited for sequential data like time series, making them a popular choice for financial forecasting tasks.
 
